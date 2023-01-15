@@ -30,100 +30,40 @@ Played poker professionally all over the world.
   <br><br>
 
 ## 👩🏼‍🎓 Education
-
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
-
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
-<br><br>
-
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
-
-## 📌 Education
-
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
+**(Research) Master - Statistics** @ [Utrecht University] _(Aug 2021 - Present)_<br>
+A two year master program specializing in applied statistics, running GPA: 8
+  - Courses - Supervised Learning, Causal Inference, Multilevel Modelling, Bayesian Statistics
+  - Completed the Graduate Honours Interdisciplinary Seminars Program
   <br><br>
 
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
+**Exchange** @ [National University of Singapore (NUS)] _(Jan 2023 - Present)_ <br>
+On exchange for one semester at the #1 ranked university in Asia
+  - Courses: - Optimisation for Large-Scale Data-Driven Inference, Statistical Learning II, Programming Methodology in C
   <br><br>
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
+**Bachelor of Science - Natural and Social Science** @ [University of Amsterdam] _(2018 - 2021)_<br>
+Major in Economic
+  - Thesis On Students' Borrowing Behaviour in the Netherlands was awarded an 9.5, the highest grade in the economics cohort.
   <br><br>
 
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
+**Online courses** <br>
+  - Coursera: Machine learning specialization from Stanford University and DeepLearning.AI
+  - Kaggle: Intro to Machine Learning, Intermediate Machine Learning, Time Series Analysis
   <br><br>
   
 
 ## 🎤 Public Speaking
-    
-### Recent Appearances
 
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
+- **IRT workshop** Enschede 🇷🇴 _( 24 nov, 2022)_
+<br>[Presentation about the estimation of causal effects with few time points]<br>
 
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
+- **Misitery of Eduction** _(released on Mar 31, 2021)_
+<br>[Presentation about the findings of my bachlor's thesis]<br>
 <br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
   
 ## 💬 Languages
 
 🇳🇱 **Dutch**: Native<br>
 🇺🇸 **English**: C2 
+💻 **Programming**:  R, Python, SQL, STATA, C
 <br><br>
-
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
