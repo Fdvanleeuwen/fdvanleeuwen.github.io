@@ -54,7 +54,7 @@ Major in Economic
 
 ## 🎤 Public Speaking
 
-- **IRT workshop** Enschede 🇷🇴 _( 24 nov, 2022)_
+- **IRT workshop** Enschede _( 24 nov, 2022)_
 <br>[Presentation about the estimation of causal effects with few time points]<br>
 
 - **Misitery of Eduction** _(released on Mar 31, 2021)_
