@@ -1,10 +1,10 @@
-# Carolyn Stransky
+# Florian van Leeuwen
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Data Driven Researcher based in the Netherlands_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:floriandammesvanleeuwen@gmail.com) / [LinkedIn](https://www.linkedin.com/in/f-van-leeuwen/) / [GitHub](https://github.com/Fdvanleeuwen/)
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
