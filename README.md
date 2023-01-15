@@ -64,6 +64,6 @@ Major in Economic
 ## 💬 Languages
 
 🇳🇱 **Dutch**: Native<br>
-🇺🇸 **English**: C2 
+🇺🇸 **English**: C2 <br>
 💻 **Programming**:  R, Python, SQL, STATA, C
 <br><br>
