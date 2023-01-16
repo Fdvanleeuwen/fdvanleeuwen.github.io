@@ -4,11 +4,12 @@ _Data Driven Researcher based in the Netherlands, currently working on the estim
 
 ![Testing](test.png) <br>
 
-<p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "blank"> LinkedIn </a></p>
+<p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a></p>
 
 Link to my CV in a 
-<a href = "https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf" target = "blank" > pdf </a>
+<a href = "https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf" target = "_blank" > pdf </a>
 
+[get the PDF]({{ https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf}}/assets/mydoc.pdf)
 ## 👩🏼‍💻 Experience
 
 **Researcher** @ [SEO Amsterdam Economics](https://www.seo.nl/en/) _(Jan 2020 - Present)_ <br>
