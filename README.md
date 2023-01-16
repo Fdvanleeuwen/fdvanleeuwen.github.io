@@ -4,8 +4,9 @@ _Data Driven Researcher based in the Netherlands, currently working on the estim
 
 ![Testing](test.png) <br>
 
-[Email](mailto:floriandammesvanleeuwen@gmail.com) / [LinkedIn](https://www.linkedin.com/in/f-van-leeuwen/) / [GitHub](https://github.com/Fdvanleeuwen/)
+<p style="text-align: center;">[Email](mailto:floriandammesvanleeuwen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/f-van-leeuwen/) | [GitHub](https://github.com/Fdvanleeuwen/)</p>
 
+Link to my CV in a [pdf](CV_Florian_van_Leeuwen.pdf) <br>
 
 ## 👩🏼‍💻 Experience
 
