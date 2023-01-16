@@ -6,10 +6,10 @@ _Data Driven Researcher based in the Netherlands_. <br>
 
 ![Testing](/Figs/test.png) <br>
 
-<a href="./Pdf/Midway_Report_Florian_van_Leeuwen.pdf" target="_blank"> Click here for the first results</a>
+<a href="./pdf/Midway_Report_Florian_van_Leeuwen.pdf" target="_blank"> Click here for the first results</a>
 
 <p style="text-align: center;"><a 
-href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a> | <a href="./Pdf/CV_Florian_van_Leeuwen-8.pdf" target="_blank"> CV</a></p>
+href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a> | <a href="./pdf/CV_Florian_van_Leeuwen-8.pdf" target="_blank"> CV</a></p>
 
 
 ## 👩🏼‍💻 Experience
