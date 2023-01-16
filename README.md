@@ -4,10 +4,9 @@ _Data Driven Researcher based in the Netherlands_. <br>
 
  Currently working on my master thesis about the estimation of the Covid lockdown on math scores of students: <br>
 
-![Testing](test.png) <br>
+![Testing](/Figs/test.png) <br>
 
 <p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a> | <a href="https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf" target="_blank"> CV</a></p>
-
 
 
 ## 👩🏼‍💻 Experience
