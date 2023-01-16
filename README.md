@@ -2,7 +2,11 @@
 
 _Data Driven Researcher based in the Netherlands_ <br>
 
+![Testing](test.png) <br>
+
 [Email](mailto:floriandammesvanleeuwen@gmail.com) / [LinkedIn](https://www.linkedin.com/in/f-van-leeuwen/) / [GitHub](https://github.com/Fdvanleeuwen/)
+
+
 
 ## 👩🏼‍💻 Experience
 
