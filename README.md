@@ -1,15 +1,13 @@
 # Florian van Leeuwen
 
-_Data Driven Researcher based in the Netherlands, currently working on the estimation of the Covid lockdown on math scores of students: <br>
+_Data Driven Researcher based in the Netherlands_. Currently working on the estimation of the Covid lockdown on math scores of students:_ <br>
 
 ![Testing](test.png) <br>
 
 <p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a></p>
 
-Link to my CV in a 
-<a href = "https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf" target = "_blank" > pdf </a>
+Link to my CV in a <a href="fdvanleeuwen.github.io/CV_Florian_van_Leeuwen.pdf" target="_blank">PDF.</a>
 
-[get the PDF]({{ https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf}}/assets/mydoc.pdf)
 ## 👩🏼‍💻 Experience
 
 **Researcher** @ [SEO Amsterdam Economics](https://www.seo.nl/en/) _(Jan 2020 - Present)_ <br>
