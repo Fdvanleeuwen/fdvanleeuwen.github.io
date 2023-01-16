@@ -6,7 +6,7 @@ _Data Driven Researcher based in the Netherlands_. <br>
 
 ![Testing](/Figs/test.png) <br>
 
-<p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a> | <a href="https://github.com/Fdvanleeuwen/fdvanleeuwen.github.io/blob/main/CV_Florian_van_Leeuwen.pdf" target="_blank"> CV</a></p>
+<p style="text-align: center;"><a href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Email</a>| <a href = "https://www.linkedin.com/in/f-van-leeuwen/" target = "_blank"> LinkedIn </a> | <a href="./Pdf/CV_Florian_van_Leeuwen.pdf" target="_blank"> CV</a></p>
 
 
 ## 👩🏼‍💻 Experience
@@ -64,7 +64,7 @@ Major in Economic
 - **IRT workshop** Enschede _( 24 nov, 2022)_
 <br>[Presentation about the estimation of causal effects with few time points]<br>
 
-- **Misitery of Eduction (Student loan department)** _(22 September, 2021)_
+- **Ministry of Education of the Netherlands** _(22 September, 2021)_
 <br>[Presentation about the findings of my bachlor's thesis]<br>
 <br>
   
