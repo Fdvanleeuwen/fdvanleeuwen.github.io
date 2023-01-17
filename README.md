@@ -18,7 +18,9 @@ href="mailto:floriandammesvanleeuwen@gmail.com?subject=Let's get coffee :)">Emai
 SEO Amsterdam Economics conducts applied economic research on behalf of both public and private sector clients. Our research is fully independent, thus helping our clients to take the right decisions
   - Lead analyst in a lab experiment on executive compensation to nudge CEOs into clean investments
   - Daily workload meetings with stakeholders, data cleaning/analysis, writing reports and presenting results.
-  - **_Technologies used:_** R, Python, Stata
+  - Currently working on a project about the Dutch housing market, below is a Figure of the average gas use of households in the Netherlands I made:
+
+  ![Test2](/Figs/Geom_data.png)
 <br><br>
 
 **Statistical (Thesis) Intern** @ [CITO](https://www.cito.com) _(Aug 2022 - Present)_ <br>
@@ -28,7 +30,7 @@ SEO Amsterdam Economics conducts applied economic research on behalf of both pub
 **Student-assistent** @ [Utrecht University](https://www.uu.nl/en) _(Dec 2022 - Present)_ <br>
 Supporting research into the depression of adolescence
  - Building a module to make multilevel models for longitudinal data analysis accessible for researchers at the UU.
-
+  <br><br>
 
 **Poker Player**  _(2017 -  2020)_ <br>
 Played poker professionally all over the world. 
