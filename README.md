@@ -46,6 +46,9 @@ A two year master's program specializing in applied statistics, running GPA: 8
   - Completed the Graduate Honours Interdisciplinary Seminars Program
   - Project on predicting if mushrooms are poisonous can be found [here](https://github.com/Fdvanleeuwen/Getting-High-or-Die)
   - Project on forecasting energy prices can be found [here](https://github.com/Fdvanleeuwen/Energy-Price-Forecasting) 
+   - An example of a uni project is the following figure about titanic data:
+
+   ![Test3](/Figs/titanic.png) 
   <br><br>
 
 **Exchange** @ [National University of Singapore (NUS)] _(Jan 2023 - Present)_ <br>
