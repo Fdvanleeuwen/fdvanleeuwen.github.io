@@ -28,7 +28,7 @@ SEO Amsterdam Economics conducts applied economic research on behalf of both pub
 <br><br>
 
 **Student-assistent** @ [Utrecht University](https://www.uu.nl/en) _(Dec 2022 - Present)_ <br>
-Supporting research into the depression of adolescence
+Supporting research into depression in adolescence
  - Building a module to make multilevel models for longitudinal data analysis accessible for researchers at the UU.
   <br><br>
 
@@ -46,7 +46,7 @@ A two year master's program specializing in applied statistics, running GPA: 8
   - Completed the Graduate Honours Interdisciplinary Seminars Program
   - Project on predicting if mushrooms are poisonous can be found [here](https://github.com/Fdvanleeuwen/Getting-High-or-Die)
   - Project on forecasting energy prices can be found [here](https://github.com/Fdvanleeuwen/Energy-Price-Forecasting) 
-   - An example of a uni project is the following figure about titanic data:
+   - An example of a uni project is the following figure to show the probability of survival for titanic passengers:
 
    ![Test3](/Figs/titanic.png) 
   <br><br>
