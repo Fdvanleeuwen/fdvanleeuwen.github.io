@@ -1,0 +1,74 @@
+# Shiny app Florian
+
+# libraries
+library(shiny)
+library(dplyr)
+library(readr)
+library(ggplot2)
+library(shinythemes)
+
+
+# read data
+bike <- read_csv("seoul_bike_rental.csv") 
+
+# Get the seasons for the name
+seasons <- c("Autumn", "Spring", "Summer", "Winter")
+
+## create a UI
+UI <- fluidPage(theme = shinytheme("cyborg"),
+                
+                # add a title 
+                titlePanel("Find out how the seasons influence the number of bikes rented!"),
+                br(),
+                "Which season would you like to inspect?",
+                br(),
+                
+                # Put in the season
+                sidebarLayout(
+                  sidebarPanel(
+                    selectInput("type", "Seasons",
+                                choices = seasons),
+                    br()
+                  ),
+                  
+                  mainPanel(
+                    tabsetPanel(type = "tabs",
+                                tabPanel("Bikes rented per hour", plotOutput("time")),
+                                tabPanel("Bikes rented per temperature", br(), br(), br(), br(), plotOutput("temp"))
+                    )
+                  )
+                )
+)
+
+# create a server
+server <- function(input, output, session) {
+  
+  # make time series plot
+  output$time <- renderPlot({
+    bike1 <- bike %>% 
+      filter(season == input$type) 
+    
+      ggplot(bike1, aes(x = hour, y = bikerent)) +
+      geom_point() +
+      geom_smooth() +
+      labs(x = "Hour of the day", y = "Number of bikes rented") +
+      theme_minimal()
+  })
+  
+  # temperature plot
+  output$temp <- renderPlot({
+  bike2 <- bike %>% 
+    filter(season == input$type) 
+  
+  
+        ggplot(bike2, aes(x = temp, y = bikerent, color = holiday)) +
+        geom_point() +
+        geom_smooth() +
+        labs(x = "Temperature in Celcius", y = "Number of bikes rented") +
+        theme_minimal()
+ 
+  })
+}
+
+# run the shiny app
+shinyApp(ui = UI, server = server)
